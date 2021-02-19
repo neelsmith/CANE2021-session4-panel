@@ -6,3 +6,5 @@ has_children: true
 ---
 
 # Editions
+
+Original editions and translations of manuscript material related to the panel.
