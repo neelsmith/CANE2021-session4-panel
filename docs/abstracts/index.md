@@ -6,3 +6,5 @@ has_children: true
 ---
 
 # Abstracts
+
+Abstracts and brief biographies of participants (from the annual meeting program).
