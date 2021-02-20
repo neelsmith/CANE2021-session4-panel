@@ -14,4 +14,4 @@ Dionysius names as one component of the literary scholar’s work the “ready a
 We also see that while ἱστορία scholia appear throughout the entire text, a significant number appear in Books 1 and 2 to provide context for the overall story. The ἱστορία scholia do not discuss events after the conclusion of the *Iliad*. As we will show with specific examples, this illustrates how the “ready accounting for ἱστορίαι” serves the grammarian’s larger aim of evaluating authentically Homeric material.
 
 <div class="sig">Luke Giuntoli</div>
-<link rel="stylesheet" type="text/css" href="./grammatike.css">
+<link rel="stylesheet" type="text/css" href="../../grammatike.css">
