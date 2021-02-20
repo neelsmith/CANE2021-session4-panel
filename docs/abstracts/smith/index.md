@@ -13,3 +13,6 @@ Dionysius of Thrace’s treatise *Technê grammatikê* (“The art of the schola
 We are motivated to revisit Dionysius’ definition by the Homer Multitext project’s recent publication of more than 9,000 scholia in the Venetus A manuscript of the Iliad. These notes offer unique insight into the work of ancient grammarians, especially of Dionysius’ teacher and the foremost ancient editor of Homer, Aristarchus of Samothrace.
 
 The three papers in this panel draw on different aspects of the Homer Multitext project’s digital editions to explore how the scholia inform us about the art of the scholar of letters.
+
+<div class="sig">Neel Smith</div>
+<link rel="stylesheet" type="text/css" href="../../grammatike.css">
