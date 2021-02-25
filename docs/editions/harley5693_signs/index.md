@@ -16,15 +16,15 @@ nav_order: 2
 
 
 
-
-
-All images are linked to pannable/zoomable versions
+> *The thumbnail image is linked to a pannable/zoomable image of folio 2 recto of the British Library manuscript Harley 5693.*
 
 [![click to zoomable)](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/citebl/harley5693imgs/v1/f002r.tif/full/200,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:harley5693imgs.v1:f002r)
 
 
-
 ## Diplomatic edition
+
+> *Thumbnail images are linked to a pannable/zoomable image of the specific passage.*
+
 
 |  | Diplomatic text | Image link |
 | :---: | :------  | --- |
