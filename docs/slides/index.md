@@ -1,5 +1,5 @@
 ---
-title: "Slides"
+title: "Slides and handouts"
 layout: page
 nav_order: 2
 ---
