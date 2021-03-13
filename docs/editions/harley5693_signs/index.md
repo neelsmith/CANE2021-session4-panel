@@ -2,7 +2,7 @@
 title: "Ancillary texts to MS Harley 5693, Aristarchan Signs"
 layout: page
 parent: Editions
-nav_order: 2
+nav_order: 3
 ---
 
 
