@@ -10,7 +10,7 @@ nav_order: 2
 > English translation by Graeme Bird, Sophia Sarro and Neel Smith.
 
 `(1)` ...] the word *efê* ("he said").
-`(2)` When Zenodotus did not understand this, but once again took *fê* as equivalent to *hôs*, he attached the superfluous line (*Iliad* 14.500):
+`(2)` When Zenodotus did not understand this, but once again took *fê* as equivalent to *hôs*, he attached the superfluous (*Iliad* 14.500).
 `(3)` "He showed it to the Trojans, and boasting spoke"
 `(4)` In opposition/response to (the same) Zenodotus, Aristarchus marks all instances of synonymous expressions with an undotted *diplê*,
 `(5)` because Zenodotus writes sometimes "Pylaimenes" and sometimes "Kylaimenes" since he did not understand this sort of thing.
